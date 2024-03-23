@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 h1{
-    text-transform: none;
+    text-transform: uppercase;
 }
 .poster{
     color: white;
